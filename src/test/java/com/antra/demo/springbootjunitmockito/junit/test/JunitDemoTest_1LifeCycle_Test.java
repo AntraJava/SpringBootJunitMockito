@@ -4,7 +4,7 @@ import org.junit.jupiter.api.*;
 
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
-public class JunitDemoTest_1LifeCycle {
+public class JunitDemoTest_1LifeCycle_Test {
     @BeforeAll
     public static void beforeClass(){
         System.out.println("Before ALL test method is executed..");

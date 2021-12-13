@@ -12,7 +12,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.mockito.Mockito.mock;
 import static org.mockito.Mockito.when;
 
-public class JunitDemoTest_3Mockito {
+public class JunitDemoTest_3Mockito_Test {
     @Mock
     private DemoClient demoClient;
 
