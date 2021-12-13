@@ -4,7 +4,7 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-public class JunitDemo {
+public class JunitDemoTest {
     @Test
     public void test1Equals1() {
         assertTrue(1 == 1);
